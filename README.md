@@ -19,5 +19,5 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 
 In order to allow the students to cite the documentation provided during this course, each version of the repository is archived on Zenodo and comes with a DOI. The reference to cite for each version is provided here below.
 
-#### Citation for the v.1.0:
+#### Citation for the v.1.0 (2023):
 Smets, B. (2023). VUB's "Remote Sensing of the Environment" course repository, Version 1.0. https://github.com/besmets/RSE_course/ (Last visited: DD/MM/YYY). DOI: #####
