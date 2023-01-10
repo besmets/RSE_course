@@ -9,7 +9,7 @@ In this repository, you will find key information to properly perform the exerci
 
 The folders **"Module 1"** to **"Module 8"** contain the required scripts and descriptions to perform the exercises for each module of the course.
 
-The **"changelog"** file provides the details of each update, starting from the first version created in early 2023.
+The **"Change_log"** file provides the details of each update, starting from the first version created in early 2023.
 
 The folder **"Additional_information"**, as self-explained by its name, provide useful additional information that can be used by the student to perform the exercises and use the remote sensing techniques learned during the course.
 
