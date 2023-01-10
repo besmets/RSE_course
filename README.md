@@ -11,7 +11,7 @@ The folders **"Module 1"** to **"Module 8"** contain the required scripts and de
 
 The **"change log"** file provides the details of each update, starting from version "2023".
 
-The folder **"Additional information"**, as self-explained by its name, provide useful additional information that can be used by the student to perform the exercises and use the remote sensing techniques learned during the course.
+The folder **"Additional_information"**, as self-explained by its name, provide useful additional information that can be used by the student to perform the exercises and use the remote sensing techniques learned during the course.
 
 -------
 
