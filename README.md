@@ -9,7 +9,17 @@
 
 In this repository, you will find key information to properly perform the exercices of the course "Remote Sensing of the Environment". The folder **"Computer_setup"** provide installation guides to configure your computer and install the required software and Python virtual environment.
 
-The folders **"Module 1"** to **"Module 8"** contain the required scripts and descriptions to perform the exercises for each module of the course.
+The folders **"Module 1"** to **"Module 8"** contain the required scripts and descriptions to perform the exercises for each module of the course. Here is the list of the modules and the remote sensing methodology they tackle:
+```diff
+- Module 1: Introduction to raster and geospatial image processing
+- Module 2: Remote sensing of trace gases and aerosols
+- Module 3: Thermal remote sensing
+- Module 4: Digital image correlation
+- Module 5: SfM-MVS photogrammetry
+- Module 6: 4D photogrammetry
+- Module 7: SAR remote sensing
+- Module 8: SAR interferometry
+```
 
 The **"Change_log"** file provides the details of each update, starting from the first version created in early 2023.
 
