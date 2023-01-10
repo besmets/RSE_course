@@ -1,4 +1,4 @@
-# RSE repository (!!! IN PROGRESS)
+# RSE repository
 ### Information and scripts for the practical exercises of the course "Remote Sensing of the Environment" of the Vrije Universiteit Brussel (VUB)
 ***Author:*** *Prof. Dr. Benoît SMETS - Vrije Universiteit Brussel / Royal Museum for Central Africa, Belgium*
 
