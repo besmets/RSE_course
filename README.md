@@ -7,6 +7,17 @@
 
 -------
 
+### Introduction
+
+- Description of RSE course
+- aim
+- target public
+- Caution (goal reminder --> what it does not cover)
+
+-------
+
+### Description of the repository
+
 In this repository, you will find key information to properly perform the exercices of the course "Remote Sensing of the Environment". The folder **"Computer_setup"** provide installation guides to configure your computer and install the required software and Python virtual environment.
 
 The folders **"Module 1"** to **"Module 8"** contain the required scripts and descriptions to perform the exercises for each module of the course. Here is the list of the modules and the remote sensing methodology they tackle:
