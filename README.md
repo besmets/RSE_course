@@ -41,6 +41,19 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 
 -------
 
+### PRACTICAL EXERCISES PER MODULE
+
+- Module 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_01_image_processing_with_Python.ipynb)
+- Module 2: No notebook yet!
+- Module 3: No notebook yet!
+- Module 4: No notebook yet!
+- Module 5: Exercise outside a Colab notebook
+- Module 6: Exercise outside a Colab notebook
+- Module 7: No notebook yet!
+- Module 8: Exercise outside a Colab notebook
+
+-------
+
 ### How to cite
 
 In order to allow the students to cite the documentation provided during this course, each version of the repository is archived on Zenodo around April/May, and comes with a DOI (once archived). The reference to cite is provided here below:
