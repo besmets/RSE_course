@@ -48,16 +48,16 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 - Module 2: No notebook yet!
 - Module 3: No notebook yet!
 - Module 4: No notebook yet!
-- Module 5: Exercise outside a Colab notebook
-- Module 6: Exercise outside a Colab notebook
+- Module 5: Exercise offline, on a computer
+- Module 6: Exercise offline, on a computer
 - Module 7: No notebook yet!
-- Module 8: Exercise outside a Colab notebook
+- Module 8: Exercise offline, on a computer
 
 -------
 
 ### How to cite
 
-In order to allow the students to cite the documentation provided during this course, each version of the repository will be archived on Zenodo around April/May, and will come with a DOI (once archived). The reference to cite is provided here below:
+In order to allow the students to cite the documentation provided during this course, each version of the repository will be archived on Zenodo around May, and will come with a DOI (once archived). The reference to cite is provided here below:
 
-#### Citation for v.1.0 (2024): (the DOI will be provided in May 2024)
+#### Citation for v.1.0 (2024): *(the DOI will be provided in May 2024)*
 Smets, B. (2024). VUB's "Remote Sensing of the Environment" course repository, Version 1.0. https://github.com/besmets/RSE_course/. (Last visited: DD/MM/YYY).
