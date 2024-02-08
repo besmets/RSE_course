@@ -43,6 +43,7 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 -------
 
 ### PRACTICAL EXERCISES PER MODULE
+(Please, open and save the Colab notebook elsewhere to perform the exercise out of the GitHub account!)  
 
 - Module 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_01_image_processing_with_Python.ipynb)
 - Module 2: No notebook yet!
