@@ -1,5 +1,6 @@
 # RSE repository
 ### Information and scripts for the practical exercises of the course "Remote Sensing of the Environment" of the Vrije Universiteit Brussel (VUB)
+#### *Version 1.0 (2024)*   
 ***Author:*** *Prof. Dr. Benoît SMETS - Vrije Universiteit Brussel / Royal Museum for Central Africa, Belgium*
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)   
@@ -56,7 +57,7 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 
 ### How to cite
 
-In order to allow the students to cite the documentation provided during this course, each version of the repository is archived on Zenodo around April/May, and comes with a DOI (once archived). The reference to cite is provided here below:
+In order to allow the students to cite the documentation provided during this course, each version of the repository will be archived on Zenodo around April/May, and will come with a DOI (once archived). The reference to cite is provided here below:
 
-#### Citation for v.1.0 (January 2023):
-Smets, B. (2023). VUB's "Remote Sensing of the Environment" course repository, Version 1.0. https://github.com/besmets/RSE_course/ (Last visited: DD/MM/YYY).
+#### Citation for v.1.0 (2024): (the DOI will be provided in May 2024)
+Smets, B. (2024). VUB's "Remote Sensing of the Environment" course repository, Version 1.0. https://github.com/besmets/RSE_course/. (Last visited: DD/MM/YYY).
