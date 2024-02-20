@@ -47,7 +47,7 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 
 - Module 1 – [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_01_image_processing_with_Python.ipynb)
 - Module 2 – Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_02_RS_of_ash_and_gas.ipynb) ; GIF animation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_02_GIF_Animation.ipynb)
-- Module 3: No notebook yet!
+- Module 3: Exercises on the ESA SNAP toolbox and using existing online tools.
 - Module 4: No notebook yet!
 - Module 5: Exercise offline, on a computer
 - Module 6: Exercise offline, on a computer
