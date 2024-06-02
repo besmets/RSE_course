@@ -16,7 +16,7 @@ The targeted public is master students who would like to discover the potential 
 
 This application-oriented course of 3 ECTS is split into **8 modules of 3 hours mixing theory and practice**, each module covering a specific methodology. As several remote sensing techniques are covered by this relatively small course, the description of the methods remains concise and focuses on the fundamental knowledge required to start using the techniques. Additional key information and references are provided to the students in case they would like to go deeper into the techniques covered.
 
-More information about this course can be foundonf the VUB's CANVAS platform, [here](https://canvas.vub.be/courses/35191). Questions can also be sent by e-mail to ***"benoit . smets (at) vub . be"***
+More information about this course can be found on the VUB's CANVAS platform, [here](https://canvas.vub.be/courses/35191). Questions can also be sent by e-mail to ***"benoit . smets (at) vub . be"***
 
 -------
 
@@ -51,8 +51,8 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 - Module 4 – [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_04_Digital_Image_Correlation.ipynb) 
 - Module 5 – Exercise offline, on a computer (additional [information and tips here](https://github.com/GeoRiskA/SfM-MVS_photogrammetry_tips)!)
 - Module 6 – Exercise offline, on a computer (additional [information and tips here](https://github.com/GeoRiskA/SfM-MVS_photogrammetry_tips)!)
-- Module 7: No notebook yet!
-- Module 8: Exercise offline, on a computer
+- Module 7 – See the [GEE script](https://www.un-spider.org/advisory-support/recommended-practices/recommended-practice-google-earth-engine-flood-mapping/step-by-step) provided by the United Nations
+- Module 8 – Exercise offline, on a computer
 
 -------
 
@@ -60,5 +60,5 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 
 In order to allow the students to cite the documentation provided during this course, each version of the repository will be archived on Zenodo around May, and will come with a DOI (once archived). The reference to cite is provided here below:
 
-#### Citation for v.1.0 (2024): *(the DOI will be provided in May 2024)*
+#### Citation for v.1.0 (2024): 
 Smets, B. (2024). RSE Repository: Information and scripts for the practical exercises of the course "Remote Sensing of the Environment" of the Vrije Universiteit Brussel (VUB). Version 1.0., https://github.com/besmets/RSE_course/. (Last visited: DD/MM/YYY).
