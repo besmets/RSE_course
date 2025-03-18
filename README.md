@@ -47,10 +47,8 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 
 - Module 1 – [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_01_image_processing_with_Python.ipynb)
 - Module 2 – Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_02_RS_of_ash_and_gas.ipynb) ; GIF animation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_02_GIF_Animation.ipynb)
-
-_(To be updated)_  
 - Module 3 – Exercises on the ESA SNAP toolbox and using existing online tools. Data plotting: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_03_Plotting_NHI_and_MODVOLC_data.ipynb)
-- Module 4 – [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_04_Digital_Image_Correlation_v2.ipynb) 
+- Module 4 – [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_04_Digital_Image_Correlation_v2.ipynb)  
 - Module 5 – Exercise offline, on a computer (additional [information and tips here](https://github.com/GeoRiskA/SfM-MVS_photogrammetry_tips)!)
 - Module 6 – Exercise offline, on a computer (additional [information and tips here](https://github.com/GeoRiskA/SfM-MVS_photogrammetry_tips)!)
 - Module 7 – See the [GEE script](https://www.un-spider.org/advisory-support/recommended-practices/recommended-practice-google-earth-engine-flood-mapping/step-by-step) provided by the United Nations
@@ -62,5 +60,5 @@ _(To be updated)_
 
 In order to allow the students to cite the documentation provided during this course, each version of the repository will be archived on Zenodo around May, and will come with a DOI (once archived). The reference to cite is provided here below:
 
-#### Citation for v.1.0 (2024): 
-Smets, B. (2024). RSE Repository: Information and scripts for the practical exercises of the course "Remote Sensing of the Environment" of the Vrije Universiteit Brussel (VUB). Version 1.0., https://github.com/besmets/RSE_course/. (Last visited: DD/MM/YYY).
+#### Citation for v.1.1 (2025): 
+Smets, B. (2025). RSE Repository: Information and scripts for the practical exercises of the course "Remote Sensing of the Environment" of the Vrije Universiteit Brussel (VUB). Version 1.1., https://github.com/besmets/RSE_course/. (Last visited: DD/MM/YYY).
