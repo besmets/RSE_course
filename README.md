@@ -1,6 +1,6 @@
 # RSE repository
 ### Information and scripts for the practical exercises of the course "Remote Sensing of the Environment" of the Vrije Universiteit Brussel (VUB)
-#### *Version 1.0 (2024)*   
+#### *Version 1.1 (2025)*   
 ***Author:*** *Prof. Dr. Benoît SMETS - Vrije Universiteit Brussel / Royal Museum for Central Africa, Belgium*
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)   
