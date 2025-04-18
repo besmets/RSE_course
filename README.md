@@ -51,7 +51,7 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 - Module 4 – [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_04_Digital_Image_Correlation_v2.ipynb)  
 - Module 5 – Exercise offline, on a computer (additional [information and tips here](https://github.com/GeoRiskA/SfM-MVS_photogrammetry_tips)!)
 - Module 6 – Exercise offline, on a computer (additional [information and tips here](https://github.com/GeoRiskA/SfM-MVS_photogrammetry_tips)!)
-- Module 7 – See the [GEE script](https://www.un-spider.org/advisory-support/recommended-practices/recommended-practice-google-earth-engine-flood-mapping/step-by-step) provided by the United Nations
+- Module 7 – Exercise offline + See the [GEE script](https://www.un-spider.org/advisory-support/recommended-practices/recommended-practice-google-earth-engine-flood-mapping/step-by-step) provided by the United Nations
 - Module 8 – Exercise offline, on a computer
 
 -------
