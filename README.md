@@ -1,6 +1,6 @@
 # RSE repository
 ### Information and scripts for the practical exercises of the course "Remote Sensing of the Environment" of the Vrije Universiteit Brussel (VUB)
-#### *Version 1.1 (2025)*   
+#### *Version 1.2 (2026)*   
 ***Author:*** *Prof. Dr. Benoît SMETS - Vrije Universiteit Brussel / Royal Museum for Central Africa, Belgium*
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)   
@@ -45,7 +45,7 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 ### PRACTICAL EXERCISES PER MODULE
 (Please, open and save the Colab notebook elsewhere to perform the exercise out of the GitHub account!)  
 
-- Module 1 – [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_01_image_processing_with_Python.ipynb) *(Updated 2026)*   
+- **Module 1** – [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_01_image_processing_with_Python.ipynb) *(Updated 2026)*   
 - Module 2 – Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_02_RS_of_ash_and_gas.ipynb) ; GIF animation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_02_GIF_Animation.ipynb)
 - Module 3 – Exercises on the ESA SNAP toolbox and using existing online tools. Data plotting: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_03_Plotting_NHI_and_MODVOLC_data.ipynb)
 - Module 4 – [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/besmets/RSE_course/blob/main/RSE_Lecture_04_Digital_Image_Correlation_v2.ipynb)  
@@ -60,5 +60,7 @@ The folder **"Additional_information"**, as self-explained by its name, provide 
 
 In order to allow the students to cite the documentation provided during this course, each version of the repository will be archived on Zenodo around May, and will come with a DOI (once archived). The reference to cite is provided here below:
 
+#### Citation for v.1.2 (2026), from May 2026: 
+Smets, B. (2026). RSE Repository: Information and scripts for the practical exercises of the course "Remote Sensing of the Environment" of the Vrije Universiteit Brussel (VUB). Version 1.2., https://github.com/besmets/RSE_course/. (Last visited: DD/MM/YYY).
 #### Citation for v.1.1 (2025): 
 Smets, B. (2025). RSE Repository: Information and scripts for the practical exercises of the course "Remote Sensing of the Environment" of the Vrije Universiteit Brussel (VUB). Version 1.1., https://github.com/besmets/RSE_course/. (Last visited: DD/MM/YYY).
